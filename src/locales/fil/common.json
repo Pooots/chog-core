@@ -1,0 +1,20 @@
+{
+  "app": {
+    "name": "Chog",
+    "tagline": "Platform para sa mga Mag-aaral, Magulang at Guro"
+  },
+  "language": {
+    "label": "Wika",
+    "switchTo": "Lumipat sa {{language}}"
+  },
+  "loading": "Naglo-load…",
+  "price": {
+    "free": "Libre"
+  },
+  "actions": {
+    "signIn": "Mag-sign In",
+    "signOut": "Mag-sign Out",
+    "save": "I-save",
+    "cancel": "Kanselahin"
+  }
+}

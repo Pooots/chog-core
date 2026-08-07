@@ -1,0 +1,20 @@
+{
+  "app": {
+    "name": "Chog",
+    "tagline": "Students, Parents & Teachers Platform"
+  },
+  "language": {
+    "label": "Language",
+    "switchTo": "Switch to {{language}}"
+  },
+  "loading": "Loading…",
+  "price": {
+    "free": "Free"
+  },
+  "actions": {
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}
